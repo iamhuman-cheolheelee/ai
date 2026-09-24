@@ -1,5 +1,11 @@
 # ai
 
+## 7.0.114
+
+### Patch Changes
+
+- ca31b89: Clarify in the prompt validation code that `allowSystemInMessages` permits all system messages, including instruction text.
+
 ## 7.0.113
 
 ### Patch Changes

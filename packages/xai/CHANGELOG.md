@@ -1,5 +1,11 @@
 # @ai-sdk/xai
 
+## 5.0.8
+
+### Patch Changes
+
+- 0a5dd0f: feat(xai): add missing Responses API provider options
+
 ## 5.0.7
 
 ### Patch Changes
